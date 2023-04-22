@@ -1,7 +1,7 @@
 # Complexible: A Rust Library for Complex-Number Operations
 Complexible is a minimal and user-friendly Rust library for complex-number operations, bringing the joy of complex mathematics to Rustaceans everywhere! Designed with simplicity and ease-of-use in mind, Complexible offers a range of functionality to help you work with complex numbers in your Rust projects.
 
-## Features
+## Features 🎁
 * Complex numbers support:
     * Representation of complex numbers in Cartesian (`CartesianComplexNumber`) and polar (`PolarComplexNumber`) forms
     * Conversion between Cartesian and polar forms
@@ -24,13 +24,13 @@ Complexible is a minimal and user-friendly Rust library for complex-number opera
     * Power (exponentiation)
     * Nth root
 
-## Installation  
+## Installation 🪄
 
 ```
 cargo add complexible
 ```
 
-## Usage
+## Usage 💡
 Here's a quick example to get you started:
 
 ```
@@ -51,8 +51,8 @@ fn main() {
 ```
 For more examples and detailed documentation, please refer to the [API documentation](https://docs.rs/complexible).
 
-## Contributing
+## Contributing ✍🏻
 We welcome contributions! If you'd like to help improve Complexible, feel free to submit a pull request on __GitHub__. Please make sure to follow the existing coding style and add tests for any new features or bug fixes.
 
-## License
+## License 📜
 Complexible is released under the MIT license.
