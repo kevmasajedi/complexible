@@ -24,12 +24,10 @@ Complexible is a minimal and user-friendly Rust library for complex-number opera
     * Power (exponentiation)
     * Nth root
 
-## Installation
-Add Complexible to your Cargo.toml:
+## Installation  
 
 ```
-[dependencies]
-complexible = "0.2.0"
+cargo add complexible
 ```
 
 ## Usage
