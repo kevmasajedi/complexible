@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Keyvan Mas <kevmasajedi@gmail.com>"]
 description = "A minimal and user-friendly Rust library complex-number operations, bringing the joy of complex mathematics to Rustaceans everywhere!"
 keywords = ["complex-numbers", "math", "rust"]
-categories = ["science::mathematics"]
+categories = ["mathematics"]
 license = "MIT"
 repository = "https://github.com/kevmasajedi/complexible"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

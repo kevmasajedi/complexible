@@ -40,10 +40,12 @@ use complexible::complex_numbers::*;
 
 fn main() {
     let a = ComplexNumber::from_cartesian(3.0, 4.0);
-    let b = ComplexNumber::from_polar(5.0, 0.927);
 
-    let sum = a + b;
-    let product = a * b;
+    let angle = Angle::from_radians(0.927); 
+    let b = ComplexNumber::from_polar(5.0, angle);
+
+    let sum = a.add(&b);
+    let product = a.mul(&b); 
 
     println!("Sum: {}", sum);
     println!("Product: {}", product);
