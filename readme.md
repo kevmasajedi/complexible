@@ -51,6 +51,9 @@ fn main() {
 ```
 For more examples and detailed documentation, please refer to the [API documentation](https://docs.rs/complexible).
 
+## Quick Tour 🚀
+To get a quick tour of complex numbers and the functions of this library, you can refer to [this section](https://github.com/kevmasajedi/And-DSP-for-All/tree/main/Fundamentals_of_Linear_Systems/complex_numbers) of __DSP for All__ library.
+
 ## Contributing ✍🏻
 We welcome contributions! If you'd like to help improve Complexible, feel free to submit a pull request on __GitHub__. Please make sure to follow the existing coding style and add tests for any new features or bug fixes.
 
