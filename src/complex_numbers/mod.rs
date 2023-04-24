@@ -1,3 +1,28 @@
+//! # `angle` Module
+//!
+//! This module provides Radian and Degree structs for working with angles in Rust.
+//! Angle measurements are essential in many mathematical and engineering applications,
+//! such as trigonometry, geometry, and physics. The Radian and Degree structs offer
+//! a convenient way to represent, convert, and manipulate angle values in both radians and degrees.
+//!
+//! The module includes methods for creating angle values from radians and degrees, converting
+//! between radians and degrees, and performing arithmetic operations on angles.
+//!
+//! Embrace the flexibility and precision offered by the angle module for your angle-related calculations!
+//!
+//! # `z` Module
+//!
+//! This module provides CartesianComplexNumber and PolarComplexNumber structs for representing
+//! complex numbers in Cartesian and polar coordinates, respectively.
+//!
+//! Complex numbers can be represented in various forms, and the choice of representation can have a significant
+//! impact on the efficiency and simplicity of certain operations. For example, multiplication and division are
+//! more straightforward in polar form, while addition and subtraction are more natural in Cartesian form.
+//!
+//! The z module allows you to seamlessly work with complex numbers in both Cartesian and polar coordinates
+//! and easily convert between the two representations. Take advantage of the z module to harness the full
+//! power and flexibility of complex number representations in your calculations!
+
 pub mod angle;
 pub mod z;
 
